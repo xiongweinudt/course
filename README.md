@@ -1,2 +1,2 @@
 # course
- experiment project for IS course
+ experiment project for IS course.
